@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Artyom 
+<h1 align="center">Hi there, I'm Artyom
 <img src="./img-greeting/github-title-img.png" height="64"/></h1>
 <h3 align="center">Computer science student, web developer</h3>
 
