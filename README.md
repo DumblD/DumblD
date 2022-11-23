@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Artyom
 <img src="./img-greeting/github-title-img.png" height="42"/></h1>
 <p align="center">
-i  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student%2C+web+developer&font=Fira%20Code&size=16&center=true&width=380&height=30&duration=4000&pause=5000">
+<img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student%2C+web+developer&font=Fira%20Code&size=16&center=true&width=380&height=30&duration=4000&pause=5000">
 </p>
 <!--
 **DumblD/DumblD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
