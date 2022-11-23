@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Artyom
 <img src="./img-greeting/github-title-img.png" height="42"/></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+science+student,+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=435&lines=Computer+science+student%2C+web+developer)](https://git.io/typing-svg)
 
 <!--
 **DumblD/DumblD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
