@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student%2C+web+developer&font=Fira%20Code&size=16&center=true&width=380&height=30&duration=4000&pause=5000">
 </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DumblD"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumblD&layout=compact"></p>
+
 <!--
 **DumblD/DumblD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
