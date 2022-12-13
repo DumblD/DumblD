@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student%2C+web+developer&font=Fira%20Code&size=16&center=true&width=380&height=30&duration=4000&pause=5000&color=546363">
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DumblD"></p>
-<img src="https://activity-graph.herokuapp.com/graph?username=DumblD&theme=minimal">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DumblD&theme=default">
 <div style="display: inline-block"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DumblD&theme=default"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DumblD&theme=default"></div>
 <div style="display: inline-block"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DumblD&theme=default"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DumblD&theme=default&utcOffset=3"></div>
